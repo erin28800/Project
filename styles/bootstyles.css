@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #ffc4cc;
+}
+h2{
+    text-align: center;
+    color: slategrey;
+}
+h3{
+    text-align: center;
+    font-size: smaller;
+    color: slategray;
+}
+a{
+    color: slategray;
+}
+footer{
+    size: 10%;
+    text-align: center;
+}
